@@ -1,5 +1,23 @@
 2025 Hacker URLs (Oldest at the Bottom)
 ==============================================================
+https://github.com/zoicware/RemoveWindowsAI
+https://x.com/i/status/2004175293028733243
+https://shigshag.com/blog/amsi_page_guard
+https://github.com/sans-blue-team/DeepBlueCLI
+https://github.com/rvrsh3ll/Bolthole
+https://x.com/DirectoryRanger/status/2002689490008310167
+https://x.com/T3chFalcon/status/2002158719790936413
+https://x.com/whokilleddb/status/1999747451175997607
+https://github.com/Nero22k/teamsc2
+https://www.opensourceprojects.dev/post/62ecbd91-72ee-4654-a262-e0d8fa91c606
+https://www.theregister.com/2025/12/11/legacy_update_update
+https://x90x90.dev/posts/stillepost/
+https://github.com/Hackplayers/evil-winrm
+https://github.com/sensepost/pipetap
+https://www.picussecurity.com/resource/blog/edr-freeze-the-user-mode-attack-that-puts-security-into-a-coma
+https://github.com/evilsocket/nyx
+https://x.com/I_Am_Jakoby/status/1995229312056725553
+https://github.com/xjasonlyu/tun2socks/
 https://github.com/0xSaikat/findme
 https://hackers-arise.com/bypassing-next-generation-firewalls-with-fragtunnel/
 https://g3tsyst3m.com/shellcode/pic/PIC-Shellcode-from-the-Ground-up-Part-1/
