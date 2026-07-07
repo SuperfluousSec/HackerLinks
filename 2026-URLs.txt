@@ -1,6 +1,11 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/portbuster1337/lpe-toolkit
+https://github.com/xec412/XeraLdr
+https://github.com/V4bel/Januscape
+https://github.com/goshs-labs/goshs
+https://github.com/qmadev/tf-mythic-azure
 https://github.com/Ragnt/AngryOxide
 https://github.com/martin-olivier/airgorah
 https://aff-wg.org/2026/06/29/cruising-forward-with-the-tradecraft-garden/
