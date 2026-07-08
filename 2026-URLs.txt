@@ -2,6 +2,7 @@
 ==============================================================
 
 
+https://screetsec.com/blog/offensive-powershell-for-red-teamer-with-defense-evastion-techniques
 https://github.com/kaandemir993/Advanced-Loader-Reverse-Engineering
 https://github.com/Orange-Cyberdefense/p3-loader
 https://nebusec.ai/research/ionstack-part-2/
