@@ -2,6 +2,7 @@
 ==============================================================
 
 
+https://github.com/kaandemir993/Advanced-Loader-Reverse-Engineering
 https://github.com/Orange-Cyberdefense/p3-loader
 https://nebusec.ai/research/ionstack-part-2/
 https://x.com/i/status/2074454885853286591
