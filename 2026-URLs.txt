@@ -1,6 +1,9 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://nebusec.ai/research/ionstack-part-2/
+https://x.com/i/status/2074454885853286591
+https://screetsec.com/blog/offensive-powershell-for-red-teamer-with-defense-evastion-techniques
 https://github.com/portbuster1337/lpe-toolkit
 https://github.com/xec412/XeraLdr
 https://github.com/V4bel/Januscape
