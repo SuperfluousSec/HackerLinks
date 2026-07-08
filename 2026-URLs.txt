@@ -1,6 +1,8 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+
+https://github.com/Orange-Cyberdefense/p3-loader
 https://nebusec.ai/research/ionstack-part-2/
 https://x.com/i/status/2074454885853286591
 https://screetsec.com/blog/offensive-powershell-for-red-teamer-with-defense-evastion-techniques
