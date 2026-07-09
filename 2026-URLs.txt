@@ -3,7 +3,7 @@
 
 
 
-
+https://git.smukx.site/smukx/Rust-for-Malware-Development/src/branch/main/Sandbox/Anti-sandbox-Refesh-rate-poc
 https://github.com/28Zaaky/Stealth-Keylogger
 https://screetsec.com/blog/offensive-powershell-for-red-teamer-with-defense-evastion-techniques
 https://github.com/kaandemir993/Advanced-Loader-Reverse-Engineering
