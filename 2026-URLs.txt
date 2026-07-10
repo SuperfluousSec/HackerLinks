@@ -3,6 +3,7 @@
 
 
 
+https://github.com/JoasASantos/BYOR
 https://medium.com/@jehadbudagga/born-to-defend-weaponized-to-kill-weaponizing-microsofts-own-driver-to-kill-edrs-af4b85c1a43c
 https://git.smukx.site/smukx/Rust-for-Malware-Development/src/branch/main/Sandbox/Anti-sandbox-Refesh-rate-poc
 https://github.com/28Zaaky/Stealth-Keylogger
