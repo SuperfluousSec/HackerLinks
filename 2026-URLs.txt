@@ -2,6 +2,7 @@
 ==============================================================
 
 
+https://github.com/portbuster1337/ArachneC2
 https://github.com/hakaioffsec/CVE-2024-21338
 https://github.com/AbishekPonmudi/Dynloader
 https://github.com/0xflux/Hells-Hollow
