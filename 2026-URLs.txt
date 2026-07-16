@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Encod3d-Sec/ClaudeBrain
 https://github.com/dstours/OctoC2
 https://github.com/google/security-research/security/advisories/GHSA-3vq3-92v4-j6mf
 https://www.redteam.community/tradecraft
