@@ -2,6 +2,7 @@
 ==============================================================
 
 
+https://github.com/remmons-r7/rapid7-CVE-2026-15409
 https://github.com/martin-olivier/airgorah
 https://lolcreds.haxx.it/
 https://github.com/toneillcodes/windows-process-injection
