@@ -2,6 +2,7 @@
 ==============================================================
 
 
+https://lolcreds.haxx.it/
 https://github.com/toneillcodes/windows-process-injection
 https://github.com/Encod3d-Sec/ClaudeBrain
 https://github.com/dstours/OctoC2
