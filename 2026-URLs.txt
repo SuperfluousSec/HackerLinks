@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis
 https://github.com/DotNetRussell/BloodBash/releases
 https://x.com/i/status/2077756639118012779
 https://github.com/remmons-r7/rapid7-CVE-2026-15409
