@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://0x00sec.org/emulating-kimsukys-initial-access/
 https://github.com/0xdeadbeefnetwork/SteelSeriesGGLPE/
 https://github.com/MaorSabag/NaX
 https://github.com/Linuxoid-cn/CVE-2026-43499-Poc-Analysis
