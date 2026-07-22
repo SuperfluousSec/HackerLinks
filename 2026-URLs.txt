@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://g3tsyst3m.com/initial%20access/Using-WebDav-to-Outsmart-Smartscreen,-MOTW,-and-that-OTHER-Alert/
 https://github.com/ThanatosXingYu/2026FastjsonPoC
 https://x.com/i/status/2079544121749025035
 https://0x00sec.org/emulating-kimsukys-initial-access/
