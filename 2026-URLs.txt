@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Exploit-Garbage/0day-Rubbish
 https://github.com/califio/publications/tree/main/MADBugs/windows-CVE-2026-50343
 https://davidcarliez.github.io/blog/cve-2026-49176-walletservice-to-system/
 https://g3tsyst3m.com/initial%20access/Using-WebDav-to-Outsmart-Smartscreen,-MOTW,-and-that-OTHER-Alert/
