@@ -1,6 +1,9 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+
+https://github.com/aniqfakhrul/CVE-2026-54121
+https://gist.github.com/H0j3n/a5ef2609b5f2944ac2390a191a534c26
 https://github.com/Exploit-Garbage/0day-Rubbish
 https://github.com/califio/publications/tree/main/MADBugs/windows-CVE-2026-50343
 https://davidcarliez.github.io/blog/cve-2026-49176-walletservice-to-system/
