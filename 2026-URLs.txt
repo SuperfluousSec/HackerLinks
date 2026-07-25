@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/aniqfakhrul/CVE-2026-54121
 https://github.com/Noz2/RootHound
 https://github.com/panwnvda/SliverC2-Evasion-Suite/
 https://github.com/aniqfakhrul/CVE-2026-54121
