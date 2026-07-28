@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/grizzzer/CVE-2026-42978-PoC-Research
 https://www.synacktiv.com/publications/bypassing-windows-authentication-reflection-mitigations-for-system-shells-part-1
 https://github.com/tc4dy/CVE-2026-54121-PoC-Exploit
 https://github.com/aniqfakhrul/CVE-2026-54121
