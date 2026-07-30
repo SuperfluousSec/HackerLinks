@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://login-securite.com/blog/cve-2026-50502-rce-via-le-service-windows-event-log-elfrbackupelfw
 https://github.com/techspence/ADeleginator
 https://deathflamingo.com/blog/cdp_enabler/
 https://github.com/grizzzer/CVE-2026-42978-PoC-Research
