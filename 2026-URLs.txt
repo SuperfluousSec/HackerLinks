@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/techspence/ADeleginator
 https://deathflamingo.com/blog/cdp_enabler/
 https://github.com/grizzzer/CVE-2026-42978-PoC-Research
 https://www.synacktiv.com/publications/bypassing-windows-authentication-reflection-mitigations-for-system-shells-part-1
