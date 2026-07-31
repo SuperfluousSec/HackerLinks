@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://klydz.net/post.php?slug=cacheghost-executing-code-from-the-kernel-page-cache
 https://github.com/Zer0SumGam3/CVE-2026-66066-POC
 https://nebusec.ai/research/ionstack-part-2/
 https://therealclarity.github.io/blog/clearsword/
