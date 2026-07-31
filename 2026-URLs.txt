@@ -1,7 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
-https://x.com/i/status/2082735225537229063
+https://github.com/Zer0SumGam3/CVE-2026-66066-POC
 https://nebusec.ai/research/ionstack-part-2/
 https://therealclarity.github.io/blog/clearsword/
 https://login-securite.com/blog/cve-2026-50502-rce-via-le-service-windows-event-log-elfrbackupelfw
