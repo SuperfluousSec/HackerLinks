@@ -1,6 +1,9 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://0xsec.gitbook.io/0xsec/malware-analysis/sakdriver-reversing-a-kernel-driver-rootkit
+https://github.com/hackerschoice/memexec
+https://github.com/Ragnt/AngryOxide
 https://klydz.net/post.php?slug=cacheghost-executing-code-from-the-kernel-page-cache
 https://github.com/Zer0SumGam3/CVE-2026-66066-POC
 https://nebusec.ai/research/ionstack-part-2/
