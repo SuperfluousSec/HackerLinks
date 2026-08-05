@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/mverschu/SOCKSRelayd/
 https://github.com/SquidSec/SquidC5
 https://github.com/matro7sh/BypassAV
 https://0xsec.gitbook.io/0xsec/malware-analysis/sakdriver-reversing-a-kernel-driver-rootkit
