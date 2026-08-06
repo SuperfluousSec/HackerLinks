@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/V4bel/Zapscape
 https://github.com/0xReadingSteiner/Silent-Call
 https://www.vulncheck.com/blog/zbt-endlessdoors
 https://github.com/SpecterOps/pass-the-passkey
