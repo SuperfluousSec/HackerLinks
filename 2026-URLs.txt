@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://heyitsas.im/posts/ovswrap/
 https://github.com/mverschu/SOCKSRelayd/
 https://github.com/SquidSec/SquidC5
 https://github.com/matro7sh/BypassAV
