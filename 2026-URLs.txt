@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/0xReadingSteiner/Silent-Call
 https://www.vulncheck.com/blog/zbt-endlessdoors
 https://github.com/SpecterOps/pass-the-passkey
 https://x.com/cr3ghost/status/2085350185358831619
