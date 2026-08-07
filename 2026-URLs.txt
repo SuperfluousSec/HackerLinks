@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://pwn.ai/blog/xss2shell
 https://github.com/V4bel/Zapscape
 https://github.com/0xReadingSteiner/Silent-Call
 https://www.vulncheck.com/blog/zbt-endlessdoors
