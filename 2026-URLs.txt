@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/KriyosArcane/TrustMeBro
 https://github.com/semperis-community/resetnightmare
 https://pwn.ai/blog/xss2shell
 https://github.com/V4bel/Zapscape
