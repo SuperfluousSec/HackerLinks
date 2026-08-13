@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Adaptix-Framework/AdaptixC2
 https://lsecqt.github.io/Red-Teaming-Army/active-directory/you-dont-need-mimikatz-for-dcsync-anymore-(sharpdcsync)/
 https://github.com/MSNightmare/ShieldBreak
 https://github.com/KriyosArcane/TrustMeBro
