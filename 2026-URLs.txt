@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://gist.github.com/notkmhn/9c3bc065421dbca7500b35791ef01c6c
 https://github.com/trustedsec/ELFLoader
 https://hackers-arise.com/digital-forensics-attacking-sam-and-extracting-hashes-with-7z/
 https://github.com/Adaptix-Framework/AdaptixC2
