@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/omribaso/sccm-cve-2026-47301-remote-code-execution-exploit
 https://github.com/Exploit-Garbage/0day-Rubbish
 https://labs.watchtowr.com/youre-back-in-the-room-citrix-netscaler-pre-auth-rce-cve-2026-8452/
 https://gist.github.com/notkmhn/9c3bc065421dbca7500b35791ef01c6c
