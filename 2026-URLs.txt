@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://woshub.com/copying-large-files-using-bits-and-powershell/
 https://github.com/PatchRequest/BusyWork
 https://ricardojoserf.github.io/trickdump/
 https://github.com/uziii2208/PwnRM
