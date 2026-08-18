@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://ricardojoserf.github.io/trickdump/
 https://github.com/uziii2208/PwnRM
 https://x.com/i/status/2089102381581824104
 https://github.com/omribaso/sccm-cve-2026-47301-remote-code-execution-exploit
