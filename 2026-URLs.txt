@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/ItalyPaleAle/tailsocks
 https://github.com/pythops/kudu
 https://www.netspi.com/blog/technical-blog/red-teaming/bofscale-a-cdn-fronted-tailnet-from-a-bof-pe/
 https://woshub.com/copying-large-files-using-bits-and-powershell/
