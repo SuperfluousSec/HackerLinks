@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://r136a1.dev/2026/08/24/sleepwalker-a-passive-backdoor-with-its-own-command-language/
 https://github.com/ricardojoserf/CrystalPotato
 https://github.com/hmgle/graftcp
 https://crt.name/
