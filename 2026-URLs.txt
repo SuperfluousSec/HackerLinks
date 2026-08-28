@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/hypnguyen1209/cve-2026-62911
 https://github.com/tailscale/tailcat
 https://github.com/pranav718/tunneru
 https://github.com/HackingLZ/sleepwalker
