@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Whispergate/InfraGuard
 https://github.com/MSNightmare/HardBreacher
 https://github.com/S1N6H/pentest-harness
 https://github.com/hypnguyen1209/cve-2026-62911
