@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://x.com/i/status/2093431243505557846
 https://github.com/S1N6H/pentest-harness
 https://github.com/hypnguyen1209/cve-2026-62911
 https://github.com/tailscale/tailcat
