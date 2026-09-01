@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://gist.github.com/nebusecurity/65fe90dd673d395b7926278d7eaf5849
 https://github.com/Whispergate/InfraGuard
 https://github.com/MSNightmare/HardBreacher
 https://github.com/S1N6H/pentest-harness
