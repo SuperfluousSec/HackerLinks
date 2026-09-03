@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/SpecterOps/skills
 https://github.com/MSNightmare/FalconFlank
 https://github.com/v12-security/pocs/tree/main/redis/server_ssl
 https://github.com/n0qword/mythic_ornn
