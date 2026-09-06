@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/38288
 https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/
 https://github.com/DeathShotXD/0xM0nCrush
 https://cyllex.io/blog/posts/lazarus-ring-0-cve-2026-68820.html?v=1
