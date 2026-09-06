@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://x.com/S1lky_1337/status/2096421482410713161
 https://blog.nullze.net/posts/peeling-the-sentinel/
 https://support.broadcom.com/web/ecx/support-content-notification/-/external/content/SecurityAdvisories/0/38288
 https://cert.pl/en/posts/2026/09/vulnerabilities-in-mikrotik-routeros-actively-exploited/
