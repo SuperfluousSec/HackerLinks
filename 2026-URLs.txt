@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/
 https://github.com/Hackplayers/evil-winrm
 https://github.com/dinosn/mikrotrick-poc
 https://x.com/S1lky_1337/status/2096421482410713161
