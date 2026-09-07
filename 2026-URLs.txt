@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Hackplayers/evil-winrm
 https://github.com/dinosn/mikrotrick-poc
 https://x.com/S1lky_1337/status/2096421482410713161
 https://blog.nullze.net/posts/peeling-the-sentinel/
