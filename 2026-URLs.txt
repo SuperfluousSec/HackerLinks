@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/OrbitCurve/firmware-reverse-engineering
 https://github.com/cli0xfa/simple-krw-vuln/tree/main/CVE-2026-62735
 https://calif.io/research/weworm
 https://github.com/daem0nc0re/PrivFu/tree/main/ArtsOfGetSystem#named-pipe-impersonation
