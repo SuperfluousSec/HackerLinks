@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://calif.io/research/weworm
 https://github.com/daem0nc0re/PrivFu/tree/main/ArtsOfGetSystem#named-pipe-impersonation
 https://github.com/TwoSevenOneT/WSASS
 https://matheuzsecurity.github.io/hacking/fileless-loader-bypassing-elastic-memfd/
