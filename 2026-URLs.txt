@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/S3N4T0R-0X0/BEAR-C2
 https://github.com/ivancabrera02/HashSiphon
 https://github.com/MSNightmare/ShieldCrash
 https://github.com/OrbitCurve/firmware-reverse-engineering
