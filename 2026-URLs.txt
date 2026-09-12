@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://x.com/CR1337/status/2098789852095664355
 https://github.com/guneykabel/cve-2026-85706
 https://github.com/mansoor0x/POC
 https://github.com/Arcanum-Sec/wraith
