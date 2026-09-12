@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/guneykabel/cve-2026-85706
 https://github.com/mansoor0x/POC
 https://github.com/Arcanum-Sec/wraith
 https://lottunnels.github.io/
