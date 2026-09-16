@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/bl4ckr0ss3/knife
 https://github.com/FUNFACTOR1/CVE-2026-82090-18-Years-All-Versions-CVSS-9.2-CRITICAL-The-Pocket-Forever-Day
 https://github.com/fortbridge/stylesmuggler
 https://github.com/DeathShotXD/0xCr0ssCrush/
