@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/fortbridge/stylesmuggler
 https://github.com/DeathShotXD/0xCr0ssCrush/
 https://github.com/hyphentbg/cve-2026-23980
 https://x.com/al3x_n3ff/status/2099498723038416995
