@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://ptswarm.com/blog/cve-2026-43783-repair-permissions-get-root-lpe-via-desktopserviceshelper-in-macos-26-5/
 https://github.com/ivancabrera02/R2Socks
 https://github.com/hac01/azure-pentesting-suite
 https://github.com/DeathShotXD/0xM0nCrush
