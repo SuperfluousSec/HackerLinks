@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/ivancabrera02/R2Socks
 https://github.com/hac01/azure-pentesting-suite
 https://github.com/DeathShotXD/0xM0nCrush
 https://github.com/Idov31/Silverseal
