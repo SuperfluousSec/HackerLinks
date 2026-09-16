@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/jonaslejon/ad-autopwn
 https://github.com/mlcsec/ResetSpy
 https://github.com/fortbridge/stylesmuggler
 https://github.com/bl4ckr0ss3/knife
