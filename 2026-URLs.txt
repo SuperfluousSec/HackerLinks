@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/0xABCD01/CVE-2026-41089
 https://github.com/bl4ckarch/go-responder
 https://github.com/Chocapikk/CVE-2026-21858
 https://github.com/jonaslejon/ad-autopwn
