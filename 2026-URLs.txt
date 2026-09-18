@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/andrd3v/CVE-2026-43783
 https://pwn.ai/blog/click2shell
 https://github.com/crypt0p3g/adnullenum
 https://github.com/Mafifrizi/ARES
