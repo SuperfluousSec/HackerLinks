@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/abraxas/CVE-2026-84753
 https://github.com/boydhacks/ntlmscout
 https://github.com/andrd3v/CVE-2026-43783
 https://pwn.ai/blog/click2shell
