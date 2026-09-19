@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://www.accomplish.ai/blog/escaping-dockers-hypervisor/
 https://github.com/abraxas/CVE-2026-82226
 https://github.com/abraxas/CVE-2026-84753
 https://github.com/boydhacks/ntlmscout
