@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://arxiv.org/html/2604.20826v1
 https://github.com/G4sp4rCS/CVE-2026-42980-POC
 https://www.accomplish.ai/blog/escaping-dockers-hypervisor/
 https://github.com/abraxas/CVE-2026-82226
