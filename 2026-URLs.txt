@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/boydhacks/ntlmscout
 https://arxiv.org/html/2604.20826v1
 https://github.com/G4sp4rCS/CVE-2026-42980-POC
 https://www.accomplish.ai/blog/escaping-dockers-hypervisor/
