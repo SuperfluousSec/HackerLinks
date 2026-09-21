@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/abraxas/CVE-2026-81294
 https://onapsis.com/blog/sap-overpass-remediation/
 https://github.com/boydhacks/ntlmscout
 https://arxiv.org/html/2604.20826v1
