@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://x.com/TheHackersNews/status/2102803852739350827
 https://github.com/crypt0p3g/dpapi-toolkit
 https://github.com/vercel/next.js/security/advisories/GHSA-vcvr-r3jv-pc5j
 https://hackers-arise.com/open-source-intelligence-osint-investigating-google-accounts-with-ghunt/
