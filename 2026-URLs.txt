@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://mobeta.fr/blog/vcenter-cve-2026-59309-cve-2026-59310/
 https://github.com/Malwation/CVE-2026-43786
 https://github.com/abraxas/CVE-2026-81294
 https://onapsis.com/blog/sap-overpass-remediation/
