@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://access.redhat.com/security/cve/cve-2026-84502
 https://x.com/TheHackersNews/status/2102803852739350827
 https://github.com/crypt0p3g/dpapi-toolkit
 https://github.com/vercel/next.js/security/advisories/GHSA-vcvr-r3jv-pc5j
