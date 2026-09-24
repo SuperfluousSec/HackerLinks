@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/
 https://access.redhat.com/security/cve/cve-2026-84502
 https://x.com/TheHackersNews/status/2102803852739350827
 https://github.com/crypt0p3g/dpapi-toolkit
