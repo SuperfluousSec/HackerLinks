@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
 https://github.com/kmkz/Exploits/tree/master/2026/PostgreSQL%20fuzzystrmatch%20OOB%20write%20to%20RCE%20-%20CVE-2026-15742
 https://labs.watchtowr.com/is-this-a-joke-in-the-auth-header-f5-big-ip-unauth-heap-overflow-to-rce-cve-2026-94127/
 https://access.redhat.com/security/cve/cve-2026-84502
