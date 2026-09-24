@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/S3cur3Th1sSh1t/SnafflePy/tree/main
 https://github.com/watchtowrlabs/watchTowr-vs-f5-bigip-PreAuth-RCE-CVE-2026-94127/
 https://thehackernews.com/2026/09/mikrotrick-chain-let-attackers-take.html
 https://github.com/kmkz/Exploits/tree/master/2026/PostgreSQL%20fuzzystrmatch%20OOB%20write%20to%20RCE%20-%20CVE-2026-15742
