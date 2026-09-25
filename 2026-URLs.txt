@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/remmons-r7/rapid7-CVE-2026-15409
 https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC
 https://github.com/S3v3n-JG/CVE-2026-76460
 https://github.com/S3cur3Th1sSh1t/SnafflePy/tree/main
