@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/0xSemZ/Magento-CVE-2019-7139-SQLi-PoC
 https://github.com/S3v3n-JG/CVE-2026-76460
 https://github.com/S3cur3Th1sSh1t/SnafflePy/tree/main
 https://github.com/watchtowrlabs/watchTowr-vs-f5-bigip-PreAuth-RCE-CVE-2026-94127/
