@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/abraxas/CVE-2026-87902
 https://github.com/v12-security/pocs/tree/main/ghostscript
 https://github.com/DeathShotXD/Comment2Shell
 https://github.com/HORKimhab/CVE
