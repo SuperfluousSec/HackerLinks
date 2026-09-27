@@ -1,6 +1,8 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+
+https://github.com/digiprosec/MicroTrick
 https://github.com/dagowda/notRDP
 https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/
 https://github.com/abraxas/CVE-2026-87902
