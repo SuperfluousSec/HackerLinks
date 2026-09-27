@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://ironpeak.be/blog/ex-arrr-sailing-the-0-click-seas/
 https://github.com/abraxas/CVE-2026-87902
 https://github.com/v12-security/pocs/tree/main/ghostscript
 https://github.com/DeathShotXD/Comment2Shell
