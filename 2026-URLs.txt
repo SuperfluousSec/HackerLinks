@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/EQSTLab/CVE-2026-18963
 https://github.com/bilalyazicioglu/tincan-cli
 https://github.com/digiprosec/MicroTrick
 https://github.com/dagowda/notRDP
