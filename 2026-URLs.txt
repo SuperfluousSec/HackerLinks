@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/0xJs/BlockEDRTraffic
 https://github.com/kmkz/Exploits/tree/master/2026/PostgreSQL%20fuzzystrmatch%20OOB%20write%20to%20RCE%20-%20CVE-2026-15742
 https://github.com/EQSTLab/CVE-2026-18963
 https://github.com/bilalyazicioglu/tincan-cli
