@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/g13net/lockjaw
 https://github.com/aniketlab/POCO-M7-Plus-Jailbreak
 https://github.com/x86byte/adm-zip_LPE-PoC
 https://github.com/originsec/pocsmith
