@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/x86byte/adm-zip_LPE-PoC
 https://github.com/originsec/pocsmith
 https://github.com/EQSTLab/CVE-2026-94545
 https://www.bleepingcomputer.com/news/security/new-spectre-v2-attack-variant-leaks-linux-root-password-hash-in-minutes/
