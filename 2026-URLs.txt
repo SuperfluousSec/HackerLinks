@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/dinosn/raptor-loop-hunt
 https://github.com/epersic/DLLParty/
 https://lolbas-project.github.io/
 https://github.com/g13net/lockjaw
