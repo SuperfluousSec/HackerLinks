@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/grisuno/LazyOwn
 https://github.com/dinosn/raptor-loop-hunt
 https://github.com/epersic/DLLParty/
 https://lolbas-project.github.io/
