@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://adhdmurky.github.io/posts/post4/
 https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal
 https://github.com/grisuno/LazyOwn
 https://github.com/dinosn/raptor-loop-hunt
