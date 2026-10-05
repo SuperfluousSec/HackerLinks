@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://fortbridge.co.uk/research/wordpress-libheif-rce/
 https://github.com/hackfutsecroot/-gotenberg-rce-chain
 https://github.com/petermalone/CVE-2026-43682
 https://github.com/ShadowForge-Cyber/CVE-2026-104286-POC
