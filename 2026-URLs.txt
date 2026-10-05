@@ -1,6 +1,10 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://www.slcyber.io/research/wp2shell-pre-authentication-rce-in-wordpress-core
+https://github.com/sergiointel/wp2shell-poc
+https://github.com/Icex0/wp2shell-poc
+https://github.com/0xsha/wp2shell
 https://github.com/MRdark-ops/CVE-2026-40281-exploit?tab=MIT-1-ov-file
 https://github.com/abraxas/cve-2026-103956-loom-unauth
 https://adhdmurky.github.io/posts/post4/
