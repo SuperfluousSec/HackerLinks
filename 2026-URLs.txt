@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/FORTBRIDGE-UK/libheif-unci-wordpress-rce
 https://github.com/sliverarmory/sliver-gui
 https://fortbridge.co.uk/research/wordpress-libheif-rce/
 https://github.com/hackfutsecroot/-gotenberg-rce-chain
