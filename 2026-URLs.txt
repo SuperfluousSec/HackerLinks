@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/MRdark-ops/CVE-2026-40281-exploit?tab=MIT-1-ov-file
 https://github.com/abraxas/cve-2026-103956-loom-unauth
 https://adhdmurky.github.io/posts/post4/
 https://github.com/wvllxe/CVE-2026-100520-laranode-path-traversal
