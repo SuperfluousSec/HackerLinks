@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/petermalone/CVE-2026-43682
 https://github.com/ShadowForge-Cyber/CVE-2026-104286-POC
 https://github.com/ivancabrera02/BYOK
 https://www.slcyber.io/research/wp2shell-pre-authentication-rce-in-wordpress-core
