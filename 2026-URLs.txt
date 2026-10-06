@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+http://fuzzinglabs.com/repro-cve-2026-23111/
 https://github.com/nealbridges/VulnHunter
 https://github.com/ivancabrera02/pyTGTdeleg
 https://github.com/xoreaxeaxeax/movfuscator
