@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://hackers-arise.com/hacking-linux-edr-evasion-with-io_uring/
 https://opentunnel.xyz/
 https://github.com/nealbridges/VulnHunter
 https://github.com/abraxas/kafka-connect-filestream-win
