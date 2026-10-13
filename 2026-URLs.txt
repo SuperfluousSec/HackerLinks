@@ -1,6 +1,11 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/abraxas/pfsense-qinq-parent-if
+https://github.com/abraxas/pfsense-openvpn-wizard-crlf
+https://github.com/abraxas/pfsense-carp-vhid
+https://github.com/abraxas/pfsense-limiter-number
+https://github.com/abraxas/pfsense-ipsec-login-banner
 https://github.com/Whispergate/Labyrinth
 https://www.msecops.de/blog/posts/rustpack-180-features/
 https://github.com/v12-security/pocs/tree/main/anydesk
