@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/dinosn/exploit-watch-archive
 https://github.com/abraxas/pfsense-qinq-parent-if
 https://github.com/abraxas/pfsense-openvpn-wizard-crlf
 https://github.com/abraxas/pfsense-carp-vhid
