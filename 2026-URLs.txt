@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/openbin-ai/binny
 https://github.com/kamalx06/TornadoC2
 https://github.com/racoten/ReflectivePluginLoader
 https://pwn.ai/blog/pwnescape
