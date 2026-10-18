@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/shaheeryasirofficial/cuban-eight
 https://phantomsec.tools/blog/apex-c2-v04-release
 https://github.com/openbin-ai/binny
 https://github.com/kamalx06/TornadoC2
