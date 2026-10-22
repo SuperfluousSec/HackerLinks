@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/syhunt/php2shell-protection
 https://github.com/9bie/php2shell-bypass-aslr-exp
 https://github.com/ikow/php2shell-poc
 https://github.com/redteamfortress/KillerLand
