@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/horizon3ai/CVE-2026-106173
 https://github.com/Whispergate/Signet
 https://github.com/GoldraK/php2shell-poc
 https://github.com/whokilleddb/TTs
