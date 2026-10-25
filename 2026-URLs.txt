@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Percivalll/php2shell-wordpress-rce
 https://tailworm.com/
 https://github.com/cloudflare/security-audit-skill
 https://github.com/horizon3ai/CVE-2026-106173
