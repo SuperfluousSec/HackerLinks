@@ -1,7 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
-
+https://www.elastic.co/security-labs/blog/windows-endpoint-security-platform-wesp
 https://github.com/tihanyin/PSSW100AVB/
 https://github.com/i014n/PngLoader
 https://x.com/BRuteLogic/status/2114745547378549103
