@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/i014n/PngLoader
 https://x.com/BRuteLogic/status/2114745547378549103
 https://github.com/syrex1013/CVE-2026-111497-node2shell
 https://github.com/Percivalll/php2shell-wordpress-rce
