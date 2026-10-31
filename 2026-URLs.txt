@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://x.com/SEKTOR7net/status/2115784968316010661
 https://smsofdeath.com/
 https://hunio.org/security/abusing-constrained-delegation-without-protocol-transition-against-spn-less-accounts/
 https://github.com/grayhatkiller/impacket
