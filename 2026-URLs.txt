@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/ivancabrera02/tprtdll-Injection
 https://github.com/Arcanum-Sec/SpikeStrip
 https://blog.scrt.ch/2026/04/21/from-a-regular-red-team-exercise-to-developing-a-custom-c2-channel-over-ms-teams/
 https://github.com/dis0rder0x00/TrustedHive
