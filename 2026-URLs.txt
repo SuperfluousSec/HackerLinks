@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/Mafifrizi/ARES
 https://github.com/0rcruxe/pass-ta-key
 https://github.com/S12cybersecurity/CredGuardRuntimeShutdown
 https://github.com/ivancabrera02/tprtdll-Injection
