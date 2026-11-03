@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://cirosec.de/en/news/microsoft-defender-for-identity-evasions-in-2026-part-i/
 https://github.com/Mafifrizi/ARES
 https://github.com/0rcruxe/pass-ta-key
 https://github.com/S12cybersecurity/CredGuardRuntimeShutdown
