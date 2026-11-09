@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://terminal2shell.com/
 https://github.com/dawgyg/AppleResearch
 https://github.com/Hack0ura/WebClientRelayUp/
 https://github.com/runZeroInc/sshamble
