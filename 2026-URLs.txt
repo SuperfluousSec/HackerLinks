@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/chu0119/vc-strike
 https://github.com/MSNightmare/SignDrop
 https://terminal2shell.com/
 https://github.com/dawgyg/AppleResearch
