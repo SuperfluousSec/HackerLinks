@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/crisprss/CVE-2026-88235
 https://jakeotte.com/posts/klist-revisited.html
 https://github.com/mpgn/NetExec-mcp/releases/tag/v1.0.9
 https://github.com/ivancabrera02/AdminToSystem-HTTP.sys
