@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://medium.com/@jehadbudagga/reverse-engineering-a-0day-used-against-crowdstrike-edr-a5ea1fbe3fd4
 https://github.com/crisprss/CVE-2026-88235
 https://jakeotte.com/posts/klist-revisited.html
 https://github.com/mpgn/NetExec-mcp/releases/tag/v1.0.9
