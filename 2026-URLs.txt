@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://ii4gsp.github.io/libreoffice-rce/
 https://github.com/hypnguyen1209/CVE-2026-62911
 https://github.com/V4bel/NoisyTCP
 https://github.com/ivancabrera02/AdminToSystem-HTTP.sys
