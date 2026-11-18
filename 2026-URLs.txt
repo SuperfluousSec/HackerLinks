@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://nginx2root.com/
 https://phrack.org/issues/73/linenoise_md#siphon
 https://github.com/Nuf1p/LoaderVille
 https://github.com/MSPNightmare/CVEs/tree/main/0-Days/N-Central%20N-Able
