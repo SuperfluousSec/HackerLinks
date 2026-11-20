@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/bkerler/exploit_me
 https://thecybersecguru.com/exploits/cve-2026-124749-pam-mysql-authentication-bypass/
 https://verialabs.com/ruby2shell/
 https://github.com/Yanixos/APACHE-CVE-2026-129448
