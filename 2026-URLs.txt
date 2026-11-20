@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://verialabs.com/ruby2shell/
 https://github.com/Yanixos/APACHE-CVE-2026-129448
 https://github.com/Yanixos/APACHE-CVE-2026-129448
 https://nginx2root.com/
