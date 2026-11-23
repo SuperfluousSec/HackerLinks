@@ -1,6 +1,7 @@
 2026 Hacker URLs (Oldest at the Bottom)
 ==============================================================
 
+https://github.com/dinosn/CVE-2026-123890
 https://github.com/overgrowncarrot1/CVE-2026-49179-Active-Directory-WriteSPNScript-Command-Injection
 https://pwn.ai/upload2shell/research.html
 https://github.com/nexxus67/cve-2026-123633-poc
